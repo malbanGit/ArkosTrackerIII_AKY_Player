@@ -1,4 +1,4 @@
-; ARKOS TRACKER II 
+; ARKOS TRACKER III 
 ; Player for the Vectrex of the AKY format
 ; inspite of the 6809 being a BIG ENDIAN
 ;
